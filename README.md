@@ -1,16 +1,15 @@
-## Hi there 👋
+# Welcome to Summit 👋
+We’re **TheSummitOffical** — the umbrella brand behind BashLife, ByteOfficial, ScriptSharp-Official + more.  
 
-<!--
-**TheSummitOffical/TheSummitOffical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://copilot.microsoft.com/th/id/BCO.cef86c42-eaf2-47fd-9634-fdd6742f528e.png
 
-Here are some ideas to get you started:
+## 🌐 Our Brands
+- **BashLife** → home of BoxBox and other CLI tools  
+- **ByteOfficial** → building modern developer utilities  
+- **ScriptSharp-Official** → scripting innovations and sharp tooling  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Mission
+To create ecosystems that empower developers, creators, and communities.
+
+---
+💡 join the Summit journey.
