@@ -1,7 +1,7 @@
 # Welcome to Summit 👋
 We’re **TheSummitOffical** — the umbrella brand behind BashLife, ByteOfficial, ScriptSharp-Official + more.  
 
-https://copilot.microsoft.com/th/id/BCO.cef86c42-eaf2-47fd-9634-fdd6742f528e.png
+![Summit Banner](https://copilot.microsoft.com/th/id/BCO.cef86c42-eaf2-47fd-9634-fdd6742f528e.png)
 
 ## 🌐 Our Brands
 - **BashLife** → home of BoxBox and other CLI tools  
